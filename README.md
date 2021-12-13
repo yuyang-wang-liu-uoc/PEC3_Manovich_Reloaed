@@ -47,9 +47,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Im√°genes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
 
-----
-
-### CSS
+<!-- CSS -->
 <style>
     div.video-container {
   position: relative;
@@ -65,4 +63,8 @@ Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Im√
   border: 0;
 }
 </style>
+
+----
+
+
 
