@@ -33,7 +33,7 @@ Se trata de una hibridación de medios, puesto que este software de sintetizador
 <div class="video-container">
     <iframe class="video" src="https://www.youtube.com/embed/716cs27a6aQ" allowfullscreen></iframe>
 </div>
-<p class="smalltitle">Vídeo 1: VOCALOID. 2018. <i>VOCALOID5 - Virtual Singers In Your Computer</i> [vídeo]. Disponible en: <a href="https://youtu.be/716cs27a6aQ" target="_blank">https://youtu.be/716cs27a6aQ</a></p>
+<p class="smalltitle">Vídeo 1: VOCALOID. 2018. <i>VOCALOID5 - Virtual Singers In Your Computer</i> [vídeo en línea]. Disponible en: <a href="https://youtu.be/716cs27a6aQ" target="_blank">https://youtu.be/716cs27a6aQ</a></p>
 
 En consonancia con las teorías de los nuevos medios de Manovich, la producción musical con el software Vocaloid consiste en una “remezcla profunda”. Según él, esta hibridación no sólo es de medios sino también de técnicas (Manovich, 2013). En el programa Vocaloid se han incorporado métodos y tecnologías innovadores como tecnología de expresión de voz cantada, librerías de voz dedicadas y métodos de síntesis de voz basados en redes neuronales y aprendizaje profundo (Universitat Pompeu Fabra, 2020).
 
@@ -47,21 +47,21 @@ Desde mi punto de vista, el software Vocaloid también ha definido nuevos format
 <div class="video-container">
     <iframe class="video" src="https://www.youtube.com/embed/tkjdy7z0AIo" allowfullscreen></iframe>
 </div>
-<p class="smalltitle">Vídeo 2: FUNDACIÓN JAPÓN MADRID. 2018. <i>Keiichiro Shibuya + Hatsune Miku - Vocaloid Opera "THE END"</i> [vídeo]. Disponible en: <a href="https://youtu.be/tkjdy7z0AIo" target="_blank">https://youtu.be/tkjdy7z0AIo</a></p>
+<p class="smalltitle">Vídeo 2: FUNDACIÓN JAPÓN MADRID. 2018. <i>Keiichiro Shibuya + Hatsune Miku - Vocaloid Opera "THE END"</i> [vídeo en línea]. Disponible en: <a href="https://youtu.be/tkjdy7z0AIo" target="_blank">https://youtu.be/tkjdy7z0AIo</a></p>
 
 Otro ejemplo de nuevos tipos de representación híbridos del programa Vocaloid y Hatsune Miku es el videoclip de Jaime Altozano “Friends With Robots - canción escrita por una IA y cantada por un algoritmo”, en el que se ha sintetizado la voz con el software Vocaloid, se ha generado la letra de canción por la Inteligencia Artificial GPT-2 , se ha elaborado el modelo 3D de Hatsune Miku con el software gratis MikuMikuDance e incluso una parte de vídeo consiste en una grabación de holograma de la cantante virtual en un “mini cine” hecho con cartón (Altozano, 2020).
 
 <div class="video-container">
     <iframe class="video" src="https://www.youtube.com/embed/uMrTyUAu8l8" allowfullscreen></iframe>
 </div>
-<p class="smalltitle">Vídeo 2: ALTOZANO, Jaime. 2020. <i>Canción escrita por una IA y cantada por un algoritmo - Friends With Robots</i> [vídeo]. Disponible en: <a href="https://youtu.be/uMrTyUAu8l8" target="_blank">https://youtu.be/uMrTyUAu8l8</a></p>
+<p class="smalltitle">Vídeo 3: ALTOZANO, Jaime. 2020. <i>Canción escrita por una IA y cantada por un algoritmo - Friends With Robots</i> [vídeo en línea]. Disponible en: <a href="https://youtu.be/uMrTyUAu8l8" target="_blank">https://youtu.be/uMrTyUAu8l8</a></p>
 
 Asimismo, la gran popularidad y el impacto cultural que ha alcanzado Hatsune Miku se debe al hecho de que Hatsune Miku sea “una cantante a quien cualquiera pueda producir la música”, mientras que la tecnología Vocaloid se ha convertido en una fenómeno cultural con el que todos los creadores pueden expresarse libre y artísticamente (Tomonori, 2021).
 
 <div class="video-container">
     <iframe class="video" src="https://www.youtube.com/embed/8kX5_69sO8Q" allowfullscreen></iframe>
 </div>
-<p class="smalltitle">Vídeo 3: M, Mitchie. 2014. <i>Con una mirada inquebrantable - Una canción J-pop de Hatsune Miku</i> [vídeo]. Disponible en: <a href="https://youtu.be/8kX5_69sO8Q" target="_blank">https://youtu.be/8kX5_69sO8Q</a></p>
+<p class="smalltitle">Vídeo 4: M, Mitchie. 2014. <i>Con una mirada inquebrantable - Una canción J-pop de Hatsune Miku</i> [vídeo en línea]. Disponible en: <a href="https://youtu.be/8kX5_69sO8Q" target="_blank">https://youtu.be/8kX5_69sO8Q</a></p>
 
 
 
@@ -70,21 +70,21 @@ Asimismo, la gran popularidad y el impacto cultural que ha alcanzado Hatsune Mik
 <div class="video-container">
     <iframe class="video" src="https://www.youtube.com/embed/fqXy2Q8mRQg" allowfullscreen></iframe>
 </div>
-<p class="smalltitle">Vídeo 4: GOOGLE ARTS & CULTURE. 2018. <i>Meet Google Arts & Culture</i> [vídeo]. Disponible en: <a href="https://youtu.be/fqXy2Q8mRQg" target="_blank">https://youtu.be/fqXy2Q8mRQg</a></p>
+<p class="smalltitle">Vídeo 5: GOOGLE ARTS & CULTURE. 2018. <i>Meet Google Arts & Culture</i> [vídeo en línea]. Disponible en: <a href="https://youtu.be/fqXy2Q8mRQg" target="_blank">https://youtu.be/fqXy2Q8mRQg</a></p>
 
 Google Arts & Culture es una aplicación multiplataforma dedicada al arte y a la cultura, que presenta una recopilación de imágenes y vídeos en alta resolución de obras de arte expuestas en organizaciones culturales del mundo, empleando tecnologías y herramientas educativas para explorar la información física y contextual de las obras de arte. En esta plataforma, se puede descubrir los detalles ocultos en los mayores tesoros artísticos e históricos del mundo, disfrutar de recorridos de museos y galerías seleccionados por expertos a través de las visitas virtuales con Street View o explorar la encrucijada entre la cultura, el arte y la tecnología emergente, probando experiencias experimentales y vanguardistas creadas por ingenieros, artistas, curadores y programadores creativos (Auca Projectes Educatius, 2021).
 
 <div class="centerimg">
     <img src="https://yuyang-wang-liu-uoc.github.io/PEC3_Manovich_Reloaed/multimedia/google-art-culture-color-palette.gif" alt="Color Palette" />
 </div>
-<p class="smalltitle">Ilustración 3: LUO, Michelle. 2019. <i>Color Palette de Google Arts & Culture</i> [imagen]. Disponible en: <a href="https://www.blog.google/outreach-initiatives/arts-culture/explore-art-and-culture-through-new-lens/" target="_blank">https://www.blog.google/outreach-initiatives/arts-culture/explore-art-and-culture-through-new-lens/</a></p>
+<p class="smalltitle">Ilustración 3: LUO, Michelle. 2019. <i>Color Palette de Google Arts & Culture</i> [gif]. Disponible en: <a href="https://www.blog.google/outreach-initiatives/arts-culture/explore-art-and-culture-through-new-lens/" target="_blank">https://www.blog.google/outreach-initiatives/arts-culture/explore-art-and-culture-through-new-lens/</a></p>
 
 En la aplicación Google Arts & Culture, se pueden encontrar muchas herramientas y funcionalidades. A continuación, se muestran unos ejemplos: explorador de museos con la tecnología de Google Street View, buscador de obras de arte basándose en los diversos filtros (color, época, técnicas artísticas, corrientes artísticas, colecciones, etc.), juegos y experimentos (como crucigramas culturales, puzles artísticos, arte con música y sonidos, juego de música e imágenes, etc.), Art Projector (ver obras de artes y modelos de 3D en realidad aumentada), Color Palette (encontrar arte usando los colores de las fotografías), Art Filter (filtros para vídeo y fotos basados en objetos de obras de muesos), Art Selfie (descubrir los retratos que se parecen a la selfie realizada), Pocket Gallery (“tour de Galería Virtual” inmersivo aplicando tecnologías de realidad aumentada, tecnología 3D videos, sonidos y textos), Art Transfer (transformar las fotografías en obras de arte clásicas), etc.
 
 <div class="centerimg">
-    <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/PIXEL__AP_FlatFrida_V5.gif" alt="Color Palette" />
+    <img src="https://yuyang-wang-liu-uoc.github.io/PEC3_Manovich_Reloaed/multimedia/google-art-culture-art-projector.gif" alt="Art Projector" />
 </div>
-<p class="smalltitle">Ilustración 3: LUO, Michelle. 2019. <i>Color Palette de Google Arts & Culture</i> [imagen]. Disponible en: <a href="https://www.blog.google/outreach-initiatives/arts-culture/explore-art-and-culture-through-new-lens/" target="_blank">https://www.blog.google/outreach-initiatives/arts-culture/explore-art-and-culture-through-new-lens/</a></p>
+<p class="smalltitle">Ilustración 4: LUO, Michelle. 2019. <i>Art Projector de Google Arts & Culture</i> [gif]. Disponible en: <a href="https://www.blog.google/outreach-initiatives/arts-culture/explore-art-and-culture-through-new-lens/" target="_blank">https://www.blog.google/outreach-initiatives/arts-culture/explore-art-and-culture-through-new-lens/</a></p>
 
 Desde la visión de las teorías y concepto de nuevos medios, la aplicación web y experiencia móvil Google Arts & Culture es una hibridación de medios, puesto que en los medios híbridos los lenguajes de distintos medios se fusionan, intercambiando propiedades, creando nuevas estructuras y experiencias (Manovich, 2013). Un ejemplo de ello es la función de Pocket Gallery, que se lanzó en 2018 y permite a los usuarios visitar las exposiciones de las obras de artistas de renombre como Vermeer y Klimt, a través de la experiencia virtual con los dispositivos móviles. Asimismo, Pocket Gallery combina múltiples tipos de medios y métodos técnicos como la tecnologías de realidad aumentada, la tecnología de Google Street View, el modelado 3D, vídeos, grabación de audios, textos e imágenes en alta resolución de obras de arte, etc. 
 
