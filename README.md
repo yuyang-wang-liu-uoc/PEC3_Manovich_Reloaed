@@ -122,8 +122,19 @@ Por otra parte, considero que la función del Art Filter de la aplicación Googl
 
 ### Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 * Adell, F. (s.f.). **Remediación, multimedia e hibridación de los medios**. Recuperado el 11 de Diciembre de 2021, de Fundamentos y evolución de la multimedia - Universitat Oberta de Catalunya: https://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
+* Altozano, J. (4 de Marzo de 2020). **Friends With Robots - canción escrita por una IA y cantada por un algoritmo**. Recuperado el 12 de Diciembre de 2021, de YouTube: https://www.youtube.com/watch?v=uMrTyUAu8l8
+* Auca Projectes Educatius. (2 de Marzo de 2021). **Google Arts y Culture - una app educativa para todas las edades**. Recuperado el 12 de Diciembre de 2021, de Auca Projectes Educatius: https://www.auca.es/google-arts-y-culture-una-app-educativa-para-todas-las-edades/
+* CRYPTON FUTURE MEDIA, INC. (s.f.). **Virtual Singer - Hatsune Miku NT (New Type)**. Recuperado el 12 de Diciembre de 2021, de SONICWIRE: https://sonicwire.com/product/virtualsinger/special/mikunt
+* Dent, S. (14 de Octubre de 2021). **Google's Pocket Gallery art museum experiences come to the web**. Recuperado el 12 de Diciembre de 2021, de Engadget: https://www.engadget.com/googles-pocket-gallery-art-museum-experiences-come-to-the-web-103411365.html
+* Manovich, L. (2013). **El Software toma el mando**. Consultado el 12 de Diciembre de 2021. Barcelona: Editorial UOC. 
+* Robineau, F., & Ion, E. (7 de Octubre de 2020). **Play with Art Filter to learn about culture**. Recuperado el 13 de Diciembre de 2021, de Google - The Keyword: https://blog.google/outreach-initiatives/arts-culture/play-art-filter-learn-about-culture/
+* Serrahima Violant, I. (13 de Abril de 2018). **Viaje al interior de Hatsune Miku: THE END**. Recuperado el 12 de Diciembre de 2021, de Cultural Resuena: https://www.culturalresuena.es/2018/04/viaje-interior-hatsune-miku/
+* Tomonori, S. (05 de Abril de 2021). **Hatsune Miku: la diva electrónica que trajo la revolución musical del siglo XXI**. Recuperado el 12 de Diciembre de 2021, de nippon.com: https://www.nippon.com/es/japan-topics/g01038/
+* Universitat Pompeu Fabra. (23 de Marzo de 2018). **Fusión de arte y tecnología en Vocaloid Opera "The End"**, protagonizada por la cantante virtual Hatsune Miku. Recuperado el 12 de Diciembre de 2021, de Universitat Pompeu Fabra - MTG - Music Technology Group: https://www.upf.edu/es/web/e-noticies/home_upf/-/asset_publisher/8EYbnGNU3js6/content/id/179450184#.YbYP2b1KiUk
+* Universitat Pompeu Fabra. (27 de Enero de 2020). **VOCALOID: from Hatsune Miku to Hibari Misora**. Recuperado el 12 de Diciembre de 2021, de Universitat Pompeu Fabra - MTG - Music Technology Group: https://www.upf.edu/web/mtg/home/-/asset_publisher/sWCQhjdDLWwE/content/id/231857712/maximized#.YbW1nL3MKUm
+* Wikipedia. (s.f.). **Miku Hatsune**. Recuperado el 12 de Diciembre de 2021, de Wikipedia: la enciclopedia libre.
+* Wikipedia. (s.f.). **Vocaloid**. Recuperado el 12 de Diciembre de 2021, de Wikipedia: la enciclopedia libre: https://es.wikipedia.org/wiki/Vocaloid
 
 
 ----
