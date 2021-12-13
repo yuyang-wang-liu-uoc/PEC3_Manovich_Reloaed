@@ -32,19 +32,14 @@ Se trata de una hibridación de medios, puesto que este software de sintetizador
 <div class="video-container">
     <iframe class="video" src="https://www.youtube.com/embed/716cs27a6aQ" allowfullscreen></iframe>
 </div>
-<p style="font-size:1rem; color:#159957;">Vídeo 1: PARKER, Charley. 1996. <i>VOCALOID5 - Virtual Singers In Your Computer</i> [vídeo]. Disponible en: https://youtu.be/716cs27a6aQ</p>
+<p style="font-size:1rem; color:#159957;">Vídeo 1: VOCALOID. 2018. <i>VOCALOID5 - Virtual Singers In Your Computer</i> [vídeo]. Disponible en: https://youtu.be/716cs27a6aQ</p>
 
 En consonancia con las teorías de los nuevos medios de Manovich, la producción musical con el software Vocaloid consiste en una “remezcla profunda”. Según él, esta hibridación no sólo es de medios sino también de técnicas (Manovich, 2013). En el programa Vocaloid se han incorporado métodos y tecnologías innovadores como tecnología de expresión de voz cantada, librerías de voz dedicadas y métodos de síntesis de voz basados en redes neuronales y aprendizaje profundo (Universitat Pompeu Fabra, 2020).
 
 En cuanto a las estrategias de hibridación, se ha observado una nueva manera de interaccionar con los medios. Asimismo, cuando se elabora una canción, se ponen las letras en cada nota, mediante el programa se pueden cambiar la pronunciación, los acentos, dinámicas, registro e incluso agregarle vibrato (Serrahima Violant, 2018), controlando los matices de las canciones y configurando la vocalización, la nitidez de la voz y el movimiento del tono para cada nota (CRYPTON FUTURE MEDIA, INC, s.f.).
 
 ![Vocaloid y Google Arts & Culture](https://raw.githubusercontent.com/yuyang-wang-liu-uoc/PEC3_Manovich_Reloaed/main/multimedia/hatsune-miku.png)
-|                |ASCII                          |HTML                         |
-|----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
-<p style="font-size:1rem; color:#159957;">Ilustración 1: Elaboración propia (2021). <i>Vocaloid y Google Arts & Culture</i> [imagen].</p>
+<p style="font-size:1rem; color:#159957;">Ilustración 2: VOCALOID. 2018. <i>VOCALOID5 - Virtual Singers In Your Computer</i> [imagen]. Disponible en: https://ec.crypton.co.jp/pages/prod/virtualsinger/cv01_us</p>
 
 Desde mi punto de vista, el software Vocaloid también ha definido nuevos formatos de medios y nuevos tipos de representación híbrida. Con el fin de explicar mi opinión, se debe mencionar la personificación del banco de voces Vocaloid más famoso de la historia: Hatsune Miku, creado y lanzado por Crypton Future Media, Piapro Studio en 2007. Durante su desarrollo, la empresa decidió crear una imagen de “antropomorfismo del estilo anime” (antropomorfismo moe) una hoja de datos básicos del personaje para este banco de voces de Vocaloid, atrayendo a un público amateur y otaku aparte de los productores musicales profesionales (Wikipedia, s.f.). Hatsune Miku fue el primero de la serie Character Vocal de Crypton, un grupo de personajes o avatares de Vocaloid, que se comercializan como ídolos virtuales que gozan de gran fama mundial e incluso se han presentado en conciertos en vivo como una proyección de holograma en el escenario. Por lo tanto, se puede concluir que los cantantes o ídolos del pop virtuales (como Hatsune Miku) son nuevos tipos de representación híbridos de experiencias novedosas, reconfigurando y combinando diversos tipos de medios (música, ilustración, animaciones 3D, etc.), las últimos avances tecnológicos (sonido envolvente, vídeo tridimensional, holograma, etc.), las artes escénicas y la cultura popular japonesa. Un buen ejemplo de ello es la ópera futurista y ultramoderna Vocaloid Opera "THE END” en la que ha protagonizado Hatsune Miku y Keiichiro Shibuya ha compuesto y supervisado la música de la obra. En la ópera, se plantean cuestiones sobre la vida y la muerte, a la vez asociadas al mundo real y el virtual, así como la posibilidad de generar inteligencias artificiales autoconscientes, y sus posibles consecuencias (Universitat Pompeu Fabra, 2018). 
 
