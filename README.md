@@ -160,6 +160,7 @@ Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Im√
 }
     
     img.smallerimg {
+      width: 100%;
       max-width: 500px;
       height: auto;
 }
