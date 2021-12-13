@@ -119,6 +119,7 @@ Por otra parte, considero que la función del Art Filter de la aplicación Googl
 <p class="smalltitle">Vídeo 7: GOOGLE ARTS & CULTURE. 2020. <i>Try on Art Filter</i> [vídeo en línea]. Disponible en: <a href="https://youtu.be/HJC0j3PAD_0" target="_blank">https://youtu.be/HJC0j3PAD_0</a></p>
 
 
+----
 
 ### Referencias y Bibliografía
 
@@ -135,11 +136,6 @@ Por otra parte, considero que la función del Art Filter de la aplicación Googl
 * Universitat Pompeu Fabra. (27 de Enero de 2020). **VOCALOID: from Hatsune Miku to Hibari Misora**. Recuperado el 12 de Diciembre de 2021, de Universitat Pompeu Fabra - MTG - Music Technology Group: https://www.upf.edu/web/mtg/home/-/asset_publisher/sWCQhjdDLWwE/content/id/231857712/maximized#.YbW1nL3MKUm
 * Wikipedia. (s.f.). **Hatsune Miku**. Recuperado el 12 de Diciembre de 2021, de Wikipedia: la enciclopedia libre: https://en.wikipedia.org/wiki/Hatsune_Miku
 * Wikipedia. (s.f.). **Vocaloid**. Recuperado el 12 de Diciembre de 2021, de Wikipedia: la enciclopedia libre: https://es.wikipedia.org/wiki/Vocaloid
-
-
-----
-
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
 
 <!-- CSS -->
 <style>
