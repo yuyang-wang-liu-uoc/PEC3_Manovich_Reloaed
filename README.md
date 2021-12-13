@@ -50,6 +50,11 @@ Desde mi punto de vista, el software Vocaloid también ha definido nuevos format
 
 Otro ejemplo de nuevos tipos de representación híbridos del programa Vocaloid y Hatsune Miku es el videoclip de Jaime Altozano “Friends With Robots - canción escrita por una IA y cantada por un algoritmo”, en el que se ha sintetizado la voz con el software Vocaloid, se ha generado la letra de canción por la Inteligencia Artificial GPT-2 , se ha elaborado el modelo 3D de Hatsune Miku con el software gratis MikuMikuDance e incluso una parte de vídeo consiste en una grabación de holograma de la cantante virtual en un “mini cine” hecho con cartón (Altozano, 2020).
 
+<div class="video-container">
+    <iframe class="video" src="https://www.youtube.com/embed/uMrTyUAu8l8" allowfullscreen></iframe>
+</div>
+<p class="smalltitle">Vídeo 2: ALTOZANO, Jaime. 2020. <i>Canción escrita por una IA y cantada por un algoritmo - Friends With Robots</i> [vídeo]. Disponible en: <a href="https://youtu.be/uMrTyUAu8l8" target="_blank">https://youtu.be/uMrTyUAu8l8</a></p>
+
 Por lo tanto, la gran popularidad y el impacto cultural que ha alcanzado Hatsune Miku se debe al hecho de que Hatsune Miku sea “una cantante a quien cualquiera pueda producir la música”, mientras que la tecnología Vocaloid se ha convertido en una fenómeno cultural con el que todos los creadores pueden expresarse libre y artísticamente (Tomonori, 2021).
 
 ## Re-descubriendo la hibridacion: Google Arts & Culture
