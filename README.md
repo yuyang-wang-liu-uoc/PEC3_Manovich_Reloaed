@@ -1,10 +1,3 @@
----
-title: "Untitled"
-author: "James"
-date: "9/29/2020"
-output: html_document
----
-
 <style type="text/css">
   p.imgtitle {
   font-size: 20px;
