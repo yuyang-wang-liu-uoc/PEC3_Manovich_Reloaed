@@ -76,8 +76,8 @@ Google Arts & Culture es una aplicación multiplataforma dedicada al arte y a la
 
 En la aplicación Google Arts & Culture, se pueden encontrar muchas herramientas y funcionalidades. A continuación, se muestran unos ejemplos: explorador de museos con la tecnología de Google Street View, buscador de obras de arte basándose en los diversos filtros (color, época, técnicas artísticas, corrientes artísticas, colecciones, etc.), juegos y experimentos (como crucigramas culturales, puzles artísticos, arte con música y sonidos, juego de música e imágenes, etc.), Art Projector (ver obras de artes y modelos de 3D en realidad aumentada), Color Palette (encontrar arte usando los colores de las fotografías), Art Filter (filtros para vídeo y fotos basados en objetos de obras de muesos), Art Selfie (descubrir los retratos que se parecen a la selfie realizada), Pocket Gallery (“tour de Galería Virtual” inmersivo aplicando tecnologías de realidad aumentada, tecnología 3D videos, sonidos y textos), Art Transfer (transformar las fotografías en obras de arte clásicas), etc.
 
-<div>
-![Vocaloid y Google Arts & Culture](https://github.com/yuyang-wang-liu-uoc/PEC3_Manovich_Reloaed/blob/main/multimedia/google-art-culture-color-palette.gif)
+<div class="centerimg">
+    <img src="https://github.com/yuyang-wang-liu-uoc/PEC3_Manovich_Reloaed/blob/main/multimedia/google-art-culture-color-palette.gif" alt="Color Palette" />
 </div>
 <p class="smalltitle">Ilustración 2: CRYPTON FUTURE MEDIA. 2007. <i>Los datos básicos del Hatsune Miku: es una androide diva de un futuro cercano, donde las canciones se han perdido (de ahí su nombre: “Hatsu” -> “primer”, “ne” -> “sonido”, “Miku” -> “futuro”), tiene 16 años de forma permanente, pelo azul turquesa y piel pálida, su especialidad son las canciones de pop, rock, dance, house y techno.</i> [imagen]. Disponible en: <a href="https://ec.crypton.co.jp/pages/prod/virtualsinger/cv01_us" target="_blank">https://ec.crypton.co.jp/pages/prod/virtualsinger/cv01_us</a></p>
 
@@ -93,6 +93,10 @@ Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Im�
 
 <!-- CSS -->
 <style>
+    div.centerimg {
+      text-align: center;
+    }
+    
     p.smalltitle {
       font-size: 1rem; 
       color: #159957;
