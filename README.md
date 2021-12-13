@@ -29,6 +29,9 @@ Vocaloid es una tecnología de síntesis de voz cantada, desarrollada y lanzada 
 
 Se trata de una hibridación de medios, puesto que este software de sintetizador de voz combina y reconfigura medios ya existentes, como la melodía, banco de voz y las letras de canciones. Se genera digitalmente una experiencia nueva y coherente: una canción. El sintetizador software *proporciona al usuario la capacidad de sintetizar canciones simplemente escribiendo la letra y la melodía* (Wikipedia, s.f.), generando voces de cantantes digitalmente a través de herramientas como una interfaz de piano para incorporar la melodía y un banco de voz amplio a partir de grabaciones de actores de doblaje o cantantes. Por lo tanto, se puede considerar Vocaloid como una nueva plataforma de medios.
 
+<iframe src="https://www.youtube.com/embed/MUQfKFzIOeU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
 
 ## Re-descubriendo la hibridacion: Google Arts & Culture
 
