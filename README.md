@@ -102,7 +102,7 @@ Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Im√
 
 <!-- CSS -->
 <style>
-    div.centerimg {
+    div.centerimg, p.img {
       text-align: center;
     }
     
