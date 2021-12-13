@@ -32,9 +32,7 @@ Se trata de una hibridación de medios, puesto que este software de sintetizador
 <div class="video-container">
     <iframe class="video" src="https://www.youtube.com/embed/716cs27a6aQ" allowfullscreen></iframe>
 </div>
-<p style="font-size:1rem; color:#159957;">Vídeo 1: VOCALOID. 2018. <i>VOCALOID5 - Virtual Singers In Your Computer</i> [vídeo]. Disponible en: https://youtu.be/716cs27a6aQ</p>
-
-<a href="https://youtu.be/716cs27a6aQ" target="_blank">https://youtu.be/716cs27a6aQ</a>
+<p style="font-size:1rem; color:#159957;">Vídeo 1: VOCALOID. 2018. <i>VOCALOID5 - Virtual Singers In Your Computer</i> [vídeo]. Disponible en: <a href="https://youtu.be/716cs27a6aQ" target="_blank">https://youtu.be/716cs27a6aQ</a></p>
 
 En consonancia con las teorías de los nuevos medios de Manovich, la producción musical con el software Vocaloid consiste en una “remezcla profunda”. Según él, esta hibridación no sólo es de medios sino también de técnicas (Manovich, 2013). En el programa Vocaloid se han incorporado métodos y tecnologías innovadores como tecnología de expresión de voz cantada, librerías de voz dedicadas y métodos de síntesis de voz basados en redes neuronales y aprendizaje profundo (Universitat Pompeu Fabra, 2020).
 
