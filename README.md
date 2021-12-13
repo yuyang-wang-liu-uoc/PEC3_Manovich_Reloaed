@@ -15,7 +15,7 @@ Autor: Yuyang Wang Liu
 Fecha: 11 de diciembre de 2021
 
 ![Vocaloid y Google Arts & Culture](https://raw.githubusercontent.com/yuyang-wang-liu-uoc/PEC3_Manovich_Reloaed/main/multimedia/portada-reto-actividad3-800.png) 
-<p class="imgtitle">Ilustración 1: Elaboración propia (2021). *Vocaloid y Google Arts & Culture* [imagen].</p>
+<p style="font-size:30px;">Ilustración 1: Elaboración propia (2021). *Vocaloid y Google Arts & Culture* [imagen].</p>
 
 
 
