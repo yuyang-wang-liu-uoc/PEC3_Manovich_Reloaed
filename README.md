@@ -46,7 +46,7 @@ Desde mi punto de vista, el software Vocaloid también ha definido nuevos format
 <div class="video-container">
     <iframe class="video" src="https://www.youtube.com/embed/tkjdy7z0AIo" allowfullscreen></iframe>
 </div>
-<p class="smalltitle">Vídeo 1: VOCALOID. 2018. <i>VOCALOID5 - Virtual Singers In Your Computer</i> [vídeo]. Disponible en: <a href="https://youtu.be/716cs27a6aQ" target="_blank">https://youtu.be/716cs27a6aQ</a></p>
+<p class="smalltitle">Vídeo 2: FUNDACIÓN JAPÓN MADRID. 2018. <i>Keiichiro Shibuya + Hatsune Miku - Vocaloid Opera "THE END"</i> [vídeo]. Disponible en: <a href="https://youtu.be/tkjdy7z0AIo" target="_blank">https://youtu.be/tkjdy7z0AIo</a></p>
 
 Otro ejemplo de nuevos tipos de representación híbridos del programa Vocaloid y Hatsune Miku es el videoclip de Jaime Altozano “Friends With Robots - canción escrita por una IA y cantada por un algoritmo”, en el que se ha sintetizado la voz con el software Vocaloid, se ha generado la letra de canción por la Inteligencia Artificial GPT-2 , se ha elaborado el modelo 3D de Hatsune Miku con el software gratis MikuMikuDance e incluso una parte de vídeo consiste en una grabación de holograma de la cantante virtual en un “mini cine” hecho con cartón (Altozano, 2020).
 
