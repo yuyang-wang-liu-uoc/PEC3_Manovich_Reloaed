@@ -107,7 +107,7 @@ Por otra parte, con respecto a las estrategias de hibridación, el Pocket Galler
 Lev Manovich introdujo en su libro “El software toma el mando” el término “remezclabilidad profunda” para referirse al entorno de producción de software, que *permite a los diseñadores remezclar no tan solo el contenido de los distintos tipos de medios, sino también sus técnicas, métodos de trabajo y formas de representación y expresión fundamentales* (Manovich, 2013). En cuanto a la aplicación multiplataforma Google Arts & Culture, se pueden encontrar las evidencias de una “remezcla profunda”. Por ejemplo, el Art Filter utiliza la cámara de móvil para convertir al usuario en obra de arte o le deja probar y llevar encima virtualmente los artefactos guardados en los museos. Para conseguir eso, el equipo de Google Arts & Culture ha utilizado la tecnología realidad aumentada y el modelado 3D para crear varios filtros educativos y divertidos basados en pinturas, objetos, accesorios históricos y culturales de todo el mundo. Además, durante el desarrollo del Art Filter, se han aplicado los principios de inteligencia artificial de Google, teniendo en cuenta el beneficio social, la seguridad, la privacidad y el rigor científico. Por otra parte, Art Filter emplea el método de procesamiento de imágenes basado en Machine Learning, puesto que se necesita un anclaje sofisticado del contenido virtual al mundo real para un correcto funcionamiento de realidad aumentada. Por lo tanto, los artefactos pueden posicionarse de manera orgánica y suave en su cabeza o los retratos pictóricos pueden reaccionar a la expresión facial del usuario (Robineau & Ion, 2020).
 
 <div class="centerimg">
-    <img src="https://raw.githubusercontent.com/yuyang-wang-liu-uoc/PEC3_Manovich_Reloaed/main/multimedia/google-art-culture-art-filter.gif" alt="Play with Art Filter to learn about culture" width="60%" height="auto" />
+    <img class="smallerimg" src="https://raw.githubusercontent.com/yuyang-wang-liu-uoc/PEC3_Manovich_Reloaed/main/multimedia/google-art-culture-art-filter.gif" alt="Play with Art Filter to learn about culture" />
 </div>
 <p class="smalltitle">Ilustración 6: ROBINEAU, Florent y ESFANDIARI, Ion. 2020. <i>Play with Art Filter to learn about culture</i> [gif]. Disponible en: <a href="https://blog.google/outreach-initiatives/arts-culture/play-art-filter-learn-about-culture/" target="_blank">https://blog.google/outreach-initiatives/arts-culture/play-art-filter-learn-about-culture/</a></p>
 
@@ -158,6 +158,10 @@ Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Im�
       height: 100%;
       border: 0;
 }
+    
+    img.smallerimg {
+        padding: 20%;
+    }
 </style>
 
 ----
