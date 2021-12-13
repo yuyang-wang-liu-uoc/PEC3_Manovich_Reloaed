@@ -8,7 +8,7 @@ Autor: Yuyang Wang Liu
 
 Fecha: 11 de diciembre de 2021
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+![Vocaloid y Google Arts & Culture](https://raw.githubusercontent.com/yuyang-wang-liu-uoc/PEC3_Manovich_Reloaed/main/multimedia/portada-reto-actividad3.png) 
 
 
 
