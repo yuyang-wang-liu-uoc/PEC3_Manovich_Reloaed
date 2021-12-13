@@ -92,6 +92,11 @@ En la aplicación Google Arts & Culture, se pueden encontrar muchas herramientas
 
 Desde la visión de las teorías y concepto de nuevos medios, la aplicación web y experiencia móvil Google Arts & Culture es una hibridación de medios, puesto que en los medios híbridos los lenguajes de distintos medios se fusionan, intercambiando propiedades, creando nuevas estructuras y experiencias (Manovich, 2013). Un ejemplo de ello es la función de Pocket Gallery, que se lanzó en 2018 y permite a los usuarios visitar las exposiciones de las obras de artistas de renombre como Vermeer y Klimt, a través de la experiencia virtual con los dispositivos móviles. Asimismo, Pocket Gallery combina múltiples tipos de medios y métodos técnicos como la tecnologías de realidad aumentada, la tecnología de Google Street View, el modelado 3D, vídeos, grabación de audios, textos e imágenes en alta resolución de obras de arte, etc. 
 
+<div class="video-container">
+    <iframe class="video" src="https://www.youtube.com/embed/4RMcUJUznKg" allowfullscreen></iframe>
+</div>
+<p class="smalltitle">Vídeo 6: GOOGLE ARTS & CULTURE. 2020. <i>Bring the museum into your home with Augmented Reality</i> [vídeo en línea]. Disponible en: <a href="https://youtu.be/4RMcUJUznKg" target="_blank">https://youtu.be/4RMcUJUznKg</a></p>
+
 
 ### Referencias y Bibliografía
 
