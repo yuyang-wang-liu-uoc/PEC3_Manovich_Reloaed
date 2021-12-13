@@ -133,7 +133,7 @@ Por otra parte, considero que la función del Art Filter de la aplicación Googl
 * Tomonori, S. (05 de Abril de 2021). **Hatsune Miku: la diva electrónica que trajo la revolución musical del siglo XXI**. Recuperado el 12 de Diciembre de 2021, de nippon.com: https://www.nippon.com/es/japan-topics/g01038/
 * Universitat Pompeu Fabra. (23 de Marzo de 2018). **Fusión de arte y tecnología en Vocaloid Opera "The End"**, protagonizada por la cantante virtual Hatsune Miku. Recuperado el 12 de Diciembre de 2021, de Universitat Pompeu Fabra - MTG - Music Technology Group: https://www.upf.edu/es/web/e-noticies/home_upf/-/asset_publisher/8EYbnGNU3js6/content/id/179450184#.YbYP2b1KiUk
 * Universitat Pompeu Fabra. (27 de Enero de 2020). **VOCALOID: from Hatsune Miku to Hibari Misora**. Recuperado el 12 de Diciembre de 2021, de Universitat Pompeu Fabra - MTG - Music Technology Group: https://www.upf.edu/web/mtg/home/-/asset_publisher/sWCQhjdDLWwE/content/id/231857712/maximized#.YbW1nL3MKUm
-* Wikipedia. (s.f.). **Miku Hatsune**. Recuperado el 12 de Diciembre de 2021, de Wikipedia: la enciclopedia libre.
+* Wikipedia. (s.f.). **Hatsune Miku**. Recuperado el 12 de Diciembre de 2021, de Wikipedia: la enciclopedia libre: https://en.wikipedia.org/wiki/Hatsune_Miku
 * Wikipedia. (s.f.). **Vocaloid**. Recuperado el 12 de Diciembre de 2021, de Wikipedia: la enciclopedia libre: https://es.wikipedia.org/wiki/Vocaloid
 
 
