@@ -97,6 +97,13 @@ Desde la visión de las teorías y concepto de nuevos medios, la aplicación web
 </div>
 <p class="smalltitle">Vídeo 6: GOOGLE ARTS & CULTURE. 2020. <i>Bring the museum into your home with Augmented Reality</i> [vídeo en línea]. Disponible en: <a href="https://youtu.be/4RMcUJUznKg" target="_blank">https://youtu.be/4RMcUJUznKg</a></p>
 
+Por otra parte, con respecto a las estrategias de hibridación, el Pocket Gallery de la aplicación Google Arts & Culture proporciona nuevas maneras de interaccionar con los medios, puesto que se crea una experiencia novedosa y coherente, que se diferencia de una simple simulación de visitas y recorridos por las instalaciones culturales. Gracias a la tecnología aumentada, se puede visionar el plano 3D de los museos y galerías de arte desde un ángulo picado o cenital a través de los aparatos móviles, colocando literalmente una galería de arte en una mesa u otra superficie plana y permitiéndole explorar diferentes piezas de arte. Además, se puede desplazarse libremente en el espacio virtual y hacer zoom directamente a las obras de arte para apreciar los detalles y las pinceladas. También se proporcionan grabaciones de narrativas de audio y descripciones escritas que se explican la historia, el significado y otra información contextual de las obras (Dent, 2021).
+
+<div class="centerimg">
+    <img src="https://raw.githubusercontent.com/yuyang-wang-liu-uoc/PEC3_Manovich_Reloaed/main/multimedia/google-art-culture-pocket-gallery.gif" alt="Art Projector" />
+</div>
+<p class="smalltitle">Ilustración 5: SHEPHERD, Joe. 2021. <i>Get to know the enigmatic genius in Klimt vs. Klimt</i> [gif]. Disponible en: <a href="https://blog.google/outreach-initiatives/arts-culture/explore-impossible-exhibitions-3d/" target="_blank">https://blog.google/outreach-initiatives/arts-culture/explore-impossible-exhibitions-3d/</a></p>
+
 
 ### Referencias y Bibliografía
 
