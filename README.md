@@ -81,6 +81,8 @@ En la aplicación Google Arts & Culture, se pueden encontrar muchas herramientas
 </div>
 <p class="smalltitle">Ilustración 2: CRYPTON FUTURE MEDIA. 2007. <i>Los datos básicos del Hatsune Miku: es una androide diva de un futuro cercano, donde las canciones se han perdido (de ahí su nombre: “Hatsu” -> “primer”, “ne” -> “sonido”, “Miku” -> “futuro”), tiene 16 años de forma permanente, pelo azul turquesa y piel pálida, su especialidad son las canciones de pop, rock, dance, house y techno.</i> [imagen]. Disponible en: <a href="https://ec.crypton.co.jp/pages/prod/virtualsinger/cv01_us" target="_blank">https://ec.crypton.co.jp/pages/prod/virtualsinger/cv01_us</a></p>
 
+Desde la visión de las teorías y concepto de nuevos medios, la aplicación web y experiencia móvil Google Arts & Culture es una hibridación de medios, puesto que en los medios híbridos los lenguajes de distintos medios se fusionan, intercambiando propiedades, creando nuevas estructuras y experiencias (Manovich, 2013). Un ejemplo de ello es la función de Pocket Gallery, que se lanzó en 2018 y permite a los usuarios visitar las exposiciones de las obras de artistas de renombre como Vermeer y Klimt, a través de la experiencia virtual con los dispositivos móviles. Asimismo, Pocket Gallery combina múltiples tipos de medios y métodos técnicos como la tecnologías de realidad aumentada, la tecnología de Google Street View, el modelado 3D, vídeos, grabación de audios, textos e imágenes en alta resolución de obras de arte, etc. 
+
 
 ### Referencias y Bibliografía
 
