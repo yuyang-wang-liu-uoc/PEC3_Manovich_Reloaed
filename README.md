@@ -65,8 +65,8 @@ Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Im√
     }
     
     p.smalltitle.a {
-      color: #159957;
-      text-decoration: underline;
+      color: #159957 !important;
+      text-decoration: underline !important;
     }
     
     div.video-container {
