@@ -32,7 +32,7 @@ Se trata de una hibridación de medios, puesto que este software de sintetizador
 <div class="video-container">
     <iframe class="video" src="https://www.youtube.com/embed/716cs27a6aQ" allowfullscreen></iframe>
 </div>
-<p style="font-size:1rem; color:#159957;">Vídeo 1: PARKER, Charley. 1996. <i>VOCALOID5 - Virtual Singers In Your Computer/i> [video]. Disponible en: https://youtu.be/716cs27a6aQ</p>
+<p style="font-size:1rem; color:#159957;">Vídeo 1: PARKER, Charley. 1996. <i>VOCALOID5 - Virtual Singers In Your Computer</i> [video]. Disponible en: https://youtu.be/716cs27a6aQ</p>
 
 
 ## Re-descubriendo la hibridacion: Google Arts & Culture
