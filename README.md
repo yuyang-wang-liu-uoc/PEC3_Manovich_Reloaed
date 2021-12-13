@@ -23,6 +23,7 @@ Con el fin de identificar los casos de hibridación de medio, se debe distinguir
 Asimismo, se han realizado la indagan y exploración de los casos de medios híbridos, en consonancia de los siguientes conceptos teóricos de Lev Manovich: remezcla profunda de medios, nuevo lenguaje híbrido y las estrategias de hibridación.
 
 
+
 ## Re-descubriendo la hibridacion: Vocaloid
 
 Vocaloid es una tecnología de síntesis de voz cantada, desarrollada y lanzada por Yamaha Corporación en 2003 que desde entonces ha ganado un amplio reconocimiento gracias a la incorporación de las librerías de cantante, que son bases de datos de muestras de fragmentos vocales de gente real (voicebank, banco de voz), diseñadas como reemplazos para cantantes reales en la producción musical. La idea original de esta tecnología se concibió como parte de la investigación en Procesamiento de Voz y Audio de la Universitat Pompeu Fabra de Barcelona, España. (Universitat Pompeu Fabra, 2020).
@@ -63,14 +64,15 @@ Asimismo, la gran popularidad y el impacto cultural que ha alcanzado Hatsune Mik
 <p class="smalltitle">Vídeo 3: M, Mitchie. 2014. <i>Con una mirada inquebrantable - Una canción J-pop de Hatsune Miku</i> [vídeo]. Disponible en: <a href="https://youtu.be/8kX5_69sO8Q" target="_blank">https://youtu.be/8kX5_69sO8Q</a></p>
 
 
+
 ## Re-descubriendo la hibridacion: Google Arts & Culture
 
 Google Arts & Culture es una aplicación multiplataforma dedicada al arte y a la cultura, que presenta una recopilación de imágenes y vídeos en alta resolución de obras de arte expuestas en organizaciones culturales del mundo, empleando tecnologías y herramientas educativas para explorar la información física y contextual de las obras de arte. En esta plataforma, se puede descubrir los detalles ocultos en los mayores tesoros artísticos e históricos del mundo, disfrutar de recorridos de museos y galerías seleccionados por expertos a través de las visitas virtuales con Street View o explorar la encrucijada entre la cultura, el arte y la tecnología emergente, probando experiencias experimentales y vanguardistas creadas por ingenieros, artistas, curadores y programadores creativos (Auca Projectes Educatius, 2021).
 
 <div class="video-container">
-    <iframe class="video" src="https://www.youtube.com/embed/8kX5_69sO8Q" allowfullscreen></iframe>
+    <iframe class="video" src="https://www.youtube.com/embed/fqXy2Q8mRQg" allowfullscreen></iframe>
 </div>
-<p class="smalltitle">Vídeo 3: M, Mitchie. 2014. <i>Con una mirada inquebrantable - Una canción J-pop de Hatsune Miku</i> [vídeo]. Disponible en: <a href="https://youtu.be/8kX5_69sO8Q" target="_blank">https://youtu.be/8kX5_69sO8Q</a></p>
+<p class="smalltitle">Vídeo 4: GOOGLE ARTS & CULTURE. 2018. <i>Meet Google Arts & Culture</i> [vídeo]. Disponible en: <a href="https://youtu.be/fqXy2Q8mRQg" target="_blank">https://youtu.be/fqXy2Q8mRQg</a></p>
 
 
 ### Referencias y Bibliografía
