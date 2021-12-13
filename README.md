@@ -100,16 +100,24 @@ Desde la visión de las teorías y concepto de nuevos medios, la aplicación web
 Por otra parte, con respecto a las estrategias de hibridación, el Pocket Gallery de la aplicación Google Arts & Culture proporciona nuevas maneras de interaccionar con los medios, puesto que se crea una experiencia novedosa y coherente, que se diferencia de una simple simulación de visitas y recorridos por las instalaciones culturales. Gracias a la tecnología aumentada, se puede visionar el plano 3D de los museos y galerías de arte desde un ángulo picado o cenital a través de los aparatos móviles, colocando literalmente una galería de arte en una mesa u otra superficie plana y permitiéndole explorar diferentes piezas de arte. Además, se puede desplazarse libremente en el espacio virtual y hacer zoom directamente a las obras de arte para apreciar los detalles y las pinceladas. También se proporcionan grabaciones de narrativas de audio y descripciones escritas que se explican la historia, el significado y otra información contextual de las obras (Dent, 2021).
 
 <div class="centerimg">
-    <img src="https://raw.githubusercontent.com/yuyang-wang-liu-uoc/PEC3_Manovich_Reloaed/main/multimedia/google-art-culture-pocket-gallery.gif" alt="Art Projector" />
+    <img src="https://raw.githubusercontent.com/yuyang-wang-liu-uoc/PEC3_Manovich_Reloaed/main/multimedia/google-art-culture-pocket-gallery.gif" alt="Get to know the enigmatic genius in Klimt vs. Klimt" />
 </div>
 <p class="smalltitle">Ilustración 5: SHEPHERD, Joe. 2021. <i>Get to know the enigmatic genius in Klimt vs. Klimt</i> [gif]. Disponible en: <a href="https://blog.google/outreach-initiatives/arts-culture/explore-impossible-exhibitions-3d/" target="_blank">https://blog.google/outreach-initiatives/arts-culture/explore-impossible-exhibitions-3d/</a></p>
 
 Lev Manovich introdujo en su libro “El software toma el mando” el término “remezclabilidad profunda” para referirse al entorno de producción de software, que *permite a los diseñadores remezclar no tan solo el contenido de los distintos tipos de medios, sino también sus técnicas, métodos de trabajo y formas de representación y expresión fundamentales* (Manovich, 2013). En cuanto a la aplicación multiplataforma Google Arts & Culture, se pueden encontrar las evidencias de una “remezcla profunda”. Por ejemplo, el Art Filter utiliza la cámara de móvil para convertir al usuario en obra de arte o le deja probar y llevar encima virtualmente los artefactos guardados en los museos. Para conseguir eso, el equipo de Google Arts & Culture ha utilizado la tecnología realidad aumentada y el modelado 3D para crear varios filtros educativos y divertidos basados en pinturas, objetos, accesorios históricos y culturales de todo el mundo. Además, durante el desarrollo del Art Filter, se han aplicado los principios de inteligencia artificial de Google, teniendo en cuenta el beneficio social, la seguridad, la privacidad y el rigor científico. Por otra parte, Art Filter emplea el método de procesamiento de imágenes basado en Machine Learning, puesto que se necesita un anclaje sofisticado del contenido virtual al mundo real para un correcto funcionamiento de realidad aumentada. Por lo tanto, los artefactos pueden posicionarse de manera orgánica y suave en su cabeza o los retratos pictóricos pueden reaccionar a la expresión facial del usuario (Robineau & Ion, 2020).
 
+<div class="centerimg">
+    <img src="https://raw.githubusercontent.com/yuyang-wang-liu-uoc/PEC3_Manovich_Reloaed/main/multimedia/google-art-culture-art-filter.gif" alt="Play with Art Filter to learn about culture" />
+</div>
+<p class="smalltitle">Ilustración 6: ROBINEAU, Florent y ESFANDIARI, Ion. 2020. <i>Play with Art Filter to learn about culture</i> [gif]. Disponible en: <a href="https://blog.google/outreach-initiatives/arts-culture/play-art-filter-learn-about-culture/" target="_blank">https://blog.google/outreach-initiatives/arts-culture/play-art-filter-learn-about-culture/</a></p>
+
+Por otra parte, considero que la función del Art Filter de la aplicación Google Arts & Culture proporciona nuevas maneras amenas de interaccionar con los medios como el arte, la realidad aumentada, el modelado 3D, vídeo y fotografías. Gracias al Art Filter, a través de la cámara del aparato móvil el usuario puede convertirse en los autorretratos de Van Gogh o Frida Kahlo, o en la famosa joven de la perla. Asimismo, se puede adentrar en la historia con un casco tradicional de samurái o un extraordinario collar del Antiguo Egipto. Cada filtro se ha diseñado cuidadosamente para que se pueda apreciar desde todos los ángulos los detalles de los artefactos o pinturas. Antes de probar el filtro, también se mostrará su historial y contexto artístico. 
+
 <div class="video-container">
     <iframe class="video" src="https://www.youtube.com/embed/HJC0j3PAD_0" allowfullscreen></iframe>
 </div>
 <p class="smalltitle">Vídeo 7: GOOGLE ARTS & CULTURE. 2020. <i>Try on Art Filter</i> [vídeo en línea]. Disponible en: <a href="https://youtu.be/HJC0j3PAD_0" target="_blank">https://youtu.be/HJC0j3PAD_0</a></p>
+
 
 
 ### Referencias y Bibliografía
