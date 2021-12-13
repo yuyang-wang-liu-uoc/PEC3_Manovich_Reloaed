@@ -9,7 +9,7 @@ Autor: Yuyang Wang Liu
 Fecha: 11 de diciembre de 2021
 
 ![Vocaloid y Google Arts & Culture](https://raw.githubusercontent.com/yuyang-wang-liu-uoc/PEC3_Manovich_Reloaed/main/multimedia/portada-reto-actividad3-800.png) 
-<p style="font-size:1rem; color:#159957;">Ilustración 1: Elaboración propia (2021). <i>Vocaloid y Google Arts & Culture</i> [imagen].</p>
+<p class="smalltitle">Ilustración 1: Elaboración propia (2021). <i>Vocaloid y Google Arts & Culture</i> [imagen].</p>
 
 
 
@@ -32,14 +32,14 @@ Se trata de una hibridación de medios, puesto que este software de sintetizador
 <div class="video-container">
     <iframe class="video" src="https://www.youtube.com/embed/716cs27a6aQ" allowfullscreen></iframe>
 </div>
-<p style="font-size:1rem; color:#159957;">Vídeo 1: VOCALOID. 2018. <i>VOCALOID5 - Virtual Singers In Your Computer</i> [vídeo]. Disponible en: <a href="https://youtu.be/716cs27a6aQ" target="_blank">https://youtu.be/716cs27a6aQ</a></p>
+<p class="smalltitle">Vídeo 1: VOCALOID. 2018. <i>VOCALOID5 - Virtual Singers In Your Computer</i> [vídeo]. Disponible en: <a href="https://youtu.be/716cs27a6aQ" target="_blank">https://youtu.be/716cs27a6aQ</a></p>
 
 En consonancia con las teorías de los nuevos medios de Manovich, la producción musical con el software Vocaloid consiste en una “remezcla profunda”. Según él, esta hibridación no sólo es de medios sino también de técnicas (Manovich, 2013). En el programa Vocaloid se han incorporado métodos y tecnologías innovadores como tecnología de expresión de voz cantada, librerías de voz dedicadas y métodos de síntesis de voz basados en redes neuronales y aprendizaje profundo (Universitat Pompeu Fabra, 2020).
 
 En cuanto a las estrategias de hibridación, se ha observado una nueva manera de interaccionar con los medios. Asimismo, cuando se elabora una canción, se ponen las letras en cada nota, mediante el programa se pueden cambiar la pronunciación, los acentos, dinámicas, registro e incluso agregarle vibrato (Serrahima Violant, 2018), controlando los matices de las canciones y configurando la vocalización, la nitidez de la voz y el movimiento del tono para cada nota (CRYPTON FUTURE MEDIA, INC, s.f.).
 
 ![Vocaloid y Google Arts & Culture](https://raw.githubusercontent.com/yuyang-wang-liu-uoc/PEC3_Manovich_Reloaed/main/multimedia/hatsune-miku.png)
-<p style="font-size:1rem; color:#159957;">Ilustración 2: CRYPTON FUTURE MEDIA. 2007. <i>Los datos básicos del Hatsune Miku: es una androide diva de un futuro cercano, donde las canciones se han perdido (de ahí su nombre: “Hatsu” -> “primer”, “ne” -> “sonido”, “Miku” -> “futuro”), tiene 16 años de forma permanente, pelo azul turquesa y piel pálida, su especialidad son las canciones de pop, rock, dance, house y techno.</i> [imagen]. Disponible en: https://ec.crypton.co.jp/pages/prod/virtualsinger/cv01_us</p>
+<p class="smalltitle">Ilustración 2: CRYPTON FUTURE MEDIA. 2007. <i>Los datos básicos del Hatsune Miku: es una androide diva de un futuro cercano, donde las canciones se han perdido (de ahí su nombre: “Hatsu” -> “primer”, “ne” -> “sonido”, “Miku” -> “futuro”), tiene 16 años de forma permanente, pelo azul turquesa y piel pálida, su especialidad son las canciones de pop, rock, dance, house y techno.</i> [imagen]. Disponible en: https://ec.crypton.co.jp/pages/prod/virtualsinger/cv01_us</p>
 
 Desde mi punto de vista, el software Vocaloid también ha definido nuevos formatos de medios y nuevos tipos de representación híbrida. Con el fin de explicar mi opinión, se debe mencionar la personificación del banco de voces Vocaloid más famoso de la historia: Hatsune Miku, creado y lanzado por Crypton Future Media, Piapro Studio en 2007. Durante su desarrollo, la empresa decidió crear una imagen de “antropomorfismo del estilo anime” (antropomorfismo moe) una hoja de datos básicos del personaje para este banco de voces de Vocaloid, atrayendo a un público amateur y otaku aparte de los productores musicales profesionales (Wikipedia, s.f.). Hatsune Miku fue el primero de la serie Character Vocal de Crypton, un grupo de personajes o avatares de Vocaloid, que se comercializan como ídolos virtuales que gozan de gran fama mundial e incluso se han presentado en conciertos en vivo como una proyección de holograma en el escenario. Por lo tanto, se puede concluir que los cantantes o ídolos del pop virtuales (como Hatsune Miku) son nuevos tipos de representación híbridos de experiencias novedosas, reconfigurando y combinando diversos tipos de medios (música, ilustración, animaciones 3D, etc.), las últimos avances tecnológicos (sonido envolvente, vídeo tridimensional, holograma, etc.), las artes escénicas y la cultura popular japonesa. Un buen ejemplo de ello es la ópera futurista y ultramoderna Vocaloid Opera "THE END” en la que ha protagonizado Hatsune Miku y Keiichiro Shibuya ha compuesto y supervisado la música de la obra. En la ópera, se plantean cuestiones sobre la vida y la muerte, a la vez asociadas al mundo real y el virtual, así como la posibilidad de generar inteligencias artificiales autoconscientes, y sus posibles consecuencias (Universitat Pompeu Fabra, 2018). 
 
@@ -59,18 +59,23 @@ Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Im�
 
 <!-- CSS -->
 <style>
+    p.smalltitle {
+      font-size: 1rem; 
+      color: #159957;
+    }
+    
     div.video-container {
-  position: relative;
-  width: 100%;
-  padding-bottom: 56.25%;
+      position: relative;
+      width: 100%;
+      padding-bottom: 56.25%;
 }
     iframe.video {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  border: 0;
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
 }
 </style>
 
