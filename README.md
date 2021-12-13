@@ -174,7 +174,3 @@ Por otra parte, considero que la función del Art Filter de la aplicación Googl
 }
 </style>
 
-----
-
-
-
