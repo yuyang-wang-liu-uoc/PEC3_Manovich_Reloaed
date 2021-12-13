@@ -59,7 +59,7 @@ Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Im√
 
 <!-- CSS -->
 <style>
-    p.smalltitle {
+    p.smalltitle, p.smalltitle.a {
       font-size: 1rem; 
       color: #159957;
     }
