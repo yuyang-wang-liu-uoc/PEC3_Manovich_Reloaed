@@ -78,8 +78,9 @@ En la aplicación Google Arts & Culture, se pueden encontrar muchas herramientas
 
 <div>
 ![Vocaloid y Google Arts & Culture](https://github.com/yuyang-wang-liu-uoc/PEC3_Manovich_Reloaed/blob/main/multimedia/google-art-culture-color-palette.gif)
-<p class="smalltitle">Ilustración 2: CRYPTON FUTURE MEDIA. 2007. <i>Los datos básicos del Hatsune Miku: es una androide diva de un futuro cercano, donde las canciones se han perdido (de ahí su nombre: “Hatsu” -> “primer”, “ne” -> “sonido”, “Miku” -> “futuro”), tiene 16 años de forma permanente, pelo azul turquesa y piel pálida, su especialidad son las canciones de pop, rock, dance, house y techno.</i> [imagen]. Disponible en: <a href="https://ec.crypton.co.jp/pages/prod/virtualsinger/cv01_us" target="_blank">https://ec.crypton.co.jp/pages/prod/virtualsinger/cv01_us</a></p>
 </div>
+<p class="smalltitle">Ilustración 2: CRYPTON FUTURE MEDIA. 2007. <i>Los datos básicos del Hatsune Miku: es una androide diva de un futuro cercano, donde las canciones se han perdido (de ahí su nombre: “Hatsu” -> “primer”, “ne” -> “sonido”, “Miku” -> “futuro”), tiene 16 años de forma permanente, pelo azul turquesa y piel pálida, su especialidad son las canciones de pop, rock, dance, house y techno.</i> [imagen]. Disponible en: <a href="https://ec.crypton.co.jp/pages/prod/virtualsinger/cv01_us" target="_blank">https://ec.crypton.co.jp/pages/prod/virtualsinger/cv01_us</a></p>
+
 
 ### Referencias y Bibliografía
 
