@@ -62,9 +62,15 @@ Asimismo, la gran popularidad y el impacto cultural que ha alcanzado Hatsune Mik
 </div>
 <p class="smalltitle">Vídeo 3: M, Mitchie. 2014. <i>Con una mirada inquebrantable - Una canción J-pop de Hatsune Miku</i> [vídeo]. Disponible en: <a href="https://youtu.be/8kX5_69sO8Q" target="_blank">https://youtu.be/8kX5_69sO8Q</a></p>
 
+
 ## Re-descubriendo la hibridacion: Google Arts & Culture
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Google Arts & Culture es una aplicación multiplataforma dedicada al arte y a la cultura, que presenta una recopilación de imágenes y vídeos en alta resolución de obras de arte expuestas en organizaciones culturales del mundo, empleando tecnologías y herramientas educativas para explorar la información física y contextual de las obras de arte. En esta plataforma, se puede descubrir los detalles ocultos en los mayores tesoros artísticos e históricos del mundo, disfrutar de recorridos de museos y galerías seleccionados por expertos a través de las visitas virtuales con Street View o explorar la encrucijada entre la cultura, el arte y la tecnología emergente, probando experiencias experimentales y vanguardistas creadas por ingenieros, artistas, curadores y programadores creativos (Auca Projectes Educatius, 2021).
+
+<div class="video-container">
+    <iframe class="video" src="https://www.youtube.com/embed/8kX5_69sO8Q" allowfullscreen></iframe>
+</div>
+<p class="smalltitle">Vídeo 3: M, Mitchie. 2014. <i>Con una mirada inquebrantable - Una canción J-pop de Hatsune Miku</i> [vídeo]. Disponible en: <a href="https://youtu.be/8kX5_69sO8Q" target="_blank">https://youtu.be/8kX5_69sO8Q</a></p>
 
 
 ### Referencias y Bibliografía
