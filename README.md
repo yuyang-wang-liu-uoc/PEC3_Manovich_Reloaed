@@ -25,8 +25,9 @@ Asimismo, se han realizado la indagan y exploración de los casos de medios híb
 
 ## Re-descubriendo la hibridacion: Vocaloid
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Vocaloid es una tecnología de síntesis de voz cantada, desarrollada y lanzada por Yamaha Corporación en 2003 que desde entonces ha ganado un amplio reconocimiento gracias a la incorporación de las librerías de cantante, que son bases de datos de muestras de fragmentos vocales de gente real (voicebank, banco de voz), diseñadas como reemplazos para cantantes reales en la producción musical. La idea original de esta tecnología se concibió como parte de la investigación en Procesamiento de Voz y Audio de la Universitat Pompeu Fabra de Barcelona, España. (Universitat Pompeu Fabra, 2020).
 
+Se trata de una hibridación de medios, puesto que este software de sintetizador de voz combina y reconfigura medios ya existentes, como la melodía, banco de voz y las letras de canciones. Se genera digitalmente una experiencia nueva y coherente: una canción. El sintetizador software proporciona al usuario la capacidad de sintetizar canciones simplemente escribiendo la letra y la melodía (Wikipedia, s.f.), generando voces de cantantes digitalmente a través de herramientas como una interfaz de piano para incorporar la melodía y un banco de voz amplio a partir de grabaciones de actores de doblaje o cantantes. Por lo tanto, se puede considerar Vocaloid como una nueva plataforma de medios.
 
 
 ## Re-descubriendo la hibridacion: Google Arts & Culture
