@@ -8,7 +8,9 @@ Autor: Yuyang Wang Liu
 
 Fecha: 11 de diciembre de 2021
 
-![Vocaloid y Google Arts & Culture](https://raw.githubusercontent.com/yuyang-wang-liu-uoc/PEC3_Manovich_Reloaed/main/multimedia/portada-reto-actividad3-800.png) 
+<div class="centerimg">
+    <img src="https://raw.githubusercontent.com/yuyang-wang-liu-uoc/PEC3_Manovich_Reloaed/main/multimedia/portada-reto-actividad3-800.png" alt="Vocaloid y Google Arts & Culture" />
+</div>
 <p class="smalltitle">Ilustración 1: Elaboración propia (2021). <i>Vocaloid y Google Arts & Culture</i> [imagen].</p>
 
 
@@ -77,7 +79,7 @@ Asimismo, la gran popularidad y el impacto cultural que ha alcanzado Hatsune Mik
 Google Arts & Culture es una aplicación multiplataforma dedicada al arte y a la cultura, que presenta una recopilación de imágenes y vídeos en alta resolución de obras de arte expuestas en organizaciones culturales del mundo, empleando tecnologías y herramientas educativas para explorar la información física y contextual de las obras de arte. En esta plataforma, se puede descubrir los detalles ocultos en los mayores tesoros artísticos e históricos del mundo, disfrutar de recorridos de museos y galerías seleccionados por expertos a través de las visitas virtuales con Street View o explorar la encrucijada entre la cultura, el arte y la tecnología emergente, probando experiencias experimentales y vanguardistas creadas por ingenieros, artistas, curadores y programadores creativos (Auca Projectes Educatius, 2021).
 
 <div class="centerimg">
-    <img src="https://yuyang-wang-liu-uoc.github.io/PEC3_Manovich_Reloaed/multimedia/google-art-culture-color-palette.gif" alt="Color Palette" />
+    <img src="https://raw.githubusercontent.com/yuyang-wang-liu-uoc/PEC3_Manovich_Reloaed/main/multimedia/google-art-culture-color-palette.gif" alt="Color Palette" />
 </div>
 <p class="smalltitle">Ilustración 3: LUO, Michelle. 2019. <i>Color Palette de Google Arts & Culture</i> [gif]. Disponible en: <a href="https://www.blog.google/outreach-initiatives/arts-culture/explore-art-and-culture-through-new-lens/" target="_blank">https://www.blog.google/outreach-initiatives/arts-culture/explore-art-and-culture-through-new-lens/</a></p>
 
