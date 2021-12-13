@@ -123,6 +123,7 @@ Por otra parte, considero que la función del Art Filter de la aplicación Googl
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Adell, F. (s.f.). **Remediación, multimedia e hibridación de los medios**. Recuperado el 11 de Diciembre de 2021, de Fundamentos y evolución de la multimedia - Universitat Oberta de Catalunya: https://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
 
 
 ----
