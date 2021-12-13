@@ -29,12 +29,23 @@ Vocaloid es una tecnología de síntesis de voz cantada, desarrollada y lanzada 
 
 Se trata de una hibridación de medios, puesto que este software de sintetizador de voz combina y reconfigura medios ya existentes, como la melodía, banco de voz y las letras de canciones. Se genera digitalmente una experiencia nueva y coherente: una canción. El sintetizador software *proporciona al usuario la capacidad de sintetizar canciones simplemente escribiendo la letra y la melodía* (Wikipedia, s.f.), generando voces de cantantes digitalmente a través de herramientas como una interfaz de piano para incorporar la melodía y un banco de voz amplio a partir de grabaciones de actores de doblaje o cantantes. Por lo tanto, se puede considerar Vocaloid como una nueva plataforma de medios.
 
-<iframe src="https://www.youtube.com/embed/MUQfKFzIOeU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
-
 <div class="video-container">
     <iframe class="video" src="https://www.youtube.com/embed/MUQfKFzIOeU" allowfullscreen></iframe>
 </div>
+
+## Re-descubriendo la hibridacion: Google Arts & Culture
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
+### Referencias y Bibliografía
+
+* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+
+
+----
+
+Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
 
 <style>
     div.video-container {
@@ -51,18 +62,4 @@ allowfullscreen></iframe>
   border: 0;
 }
 </style>
-
-## Re-descubriendo la hibridacion: Google Arts & Culture
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
-### Referencias y Bibliografía
-
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
-
-
-----
-
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
 
