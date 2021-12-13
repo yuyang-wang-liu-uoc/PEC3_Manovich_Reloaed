@@ -84,7 +84,7 @@ Google Arts & Culture es una aplicación multiplataforma dedicada al arte y a la
 En la aplicación Google Arts & Culture, se pueden encontrar muchas herramientas y funcionalidades. A continuación, se muestran unos ejemplos: explorador de museos con la tecnología de Google Street View, buscador de obras de arte basándose en los diversos filtros (color, época, técnicas artísticas, corrientes artísticas, colecciones, etc.), juegos y experimentos (como crucigramas culturales, puzles artísticos, arte con música y sonidos, juego de música e imágenes, etc.), Art Projector (ver obras de artes y modelos de 3D en realidad aumentada), Color Palette (encontrar arte usando los colores de las fotografías), Art Filter (filtros para vídeo y fotos basados en objetos de obras de muesos), Art Selfie (descubrir los retratos que se parecen a la selfie realizada), Pocket Gallery (“tour de Galería Virtual” inmersivo aplicando tecnologías de realidad aumentada, tecnología 3D videos, sonidos y textos), Art Transfer (transformar las fotografías en obras de arte clásicas), etc.
 
 <div class="centerimg">
-    <img src="https://yuyang-wang-liu-uoc.github.io/PEC3_Manovich_Reloaed/multimedia/google-art-culture-art-projector.gif" alt="Art Projector" />
+    <img src="https://raw.githubusercontent.com/yuyang-wang-liu-uoc/PEC3_Manovich_Reloaed/main/multimedia/google-art-culture-art-projector.gif" alt="Art Projector" />
 </div>
 <p class="smalltitle">Ilustración 4: LUO, Michelle. 2019. <i>Art Projector de Google Arts & Culture</i> [gif]. Disponible en: <a href="https://www.blog.google/outreach-initiatives/arts-culture/explore-art-and-culture-through-new-lens/" target="_blank">https://www.blog.google/outreach-initiatives/arts-culture/explore-art-and-culture-through-new-lens/</a></p>
 
