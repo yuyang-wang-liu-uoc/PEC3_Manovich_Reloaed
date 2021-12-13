@@ -104,6 +104,13 @@ Por otra parte, con respecto a las estrategias de hibridación, el Pocket Galler
 </div>
 <p class="smalltitle">Ilustración 5: SHEPHERD, Joe. 2021. <i>Get to know the enigmatic genius in Klimt vs. Klimt</i> [gif]. Disponible en: <a href="https://blog.google/outreach-initiatives/arts-culture/explore-impossible-exhibitions-3d/" target="_blank">https://blog.google/outreach-initiatives/arts-culture/explore-impossible-exhibitions-3d/</a></p>
 
+Lev Manovich introdujo en su libro “El software toma el mando” el término “remezclabilidad profunda” para referirse al entorno de producción de software, que *permite a los diseñadores remezclar no tan solo el contenido de los distintos tipos de medios, sino también sus técnicas, métodos de trabajo y formas de representación y expresión fundamentales* (Manovich, 2013). En cuanto a la aplicación multiplataforma Google Arts & Culture, se pueden encontrar las evidencias de una “remezcla profunda”. Por ejemplo, el Art Filter utiliza la cámara de móvil para convertir al usuario en obra de arte o le deja probar y llevar encima virtualmente los artefactos guardados en los museos. Para conseguir eso, el equipo de Google Arts & Culture ha utilizado la tecnología realidad aumentada y el modelado 3D para crear varios filtros educativos y divertidos basados en pinturas, objetos, accesorios históricos y culturales de todo el mundo. Además, durante el desarrollo del Art Filter, se han aplicado los principios de inteligencia artificial de Google, teniendo en cuenta el beneficio social, la seguridad, la privacidad y el rigor científico. Por otra parte, Art Filter emplea el método de procesamiento de imágenes basado en Machine Learning, puesto que se necesita un anclaje sofisticado del contenido virtual al mundo real para un correcto funcionamiento de realidad aumentada. Por lo tanto, los artefactos pueden posicionarse de manera orgánica y suave en su cabeza o los retratos pictóricos pueden reaccionar a la expresión facial del usuario (Robineau & Ion, 2020).
+
+<div class="video-container">
+    <iframe class="video" src="https://www.youtube.com/embed/HJC0j3PAD_0" allowfullscreen></iframe>
+</div>
+<p class="smalltitle">Vídeo 7: GOOGLE ARTS & CULTURE. 2020. <i>Try on Art Filter</i> [vídeo en línea]. Disponible en: <a href="https://youtu.be/HJC0j3PAD_0" target="_blank">https://youtu.be/HJC0j3PAD_0</a></p>
+
 
 ### Referencias y Bibliografía
 
