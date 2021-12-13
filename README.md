@@ -32,6 +32,12 @@ Se trata de una hibridación de medios, puesto que este software de sintetizador
 <iframe src="https://www.youtube.com/embed/MUQfKFzIOeU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
 
+<div class="video-container">
+    <iframe class="video" src="https://www.youtube.com/embed/MUQfKFzIOeU" allowfullscreen></iframe>
+</div>
+
+<style>
+</style>
 
 ## Re-descubriendo la hibridacion: Google Arts & Culture
 
