@@ -55,7 +55,12 @@ Otro ejemplo de nuevos tipos de representación híbridos del programa Vocaloid 
 </div>
 <p class="smalltitle">Vídeo 2: ALTOZANO, Jaime. 2020. <i>Canción escrita por una IA y cantada por un algoritmo - Friends With Robots</i> [vídeo]. Disponible en: <a href="https://youtu.be/uMrTyUAu8l8" target="_blank">https://youtu.be/uMrTyUAu8l8</a></p>
 
-Por lo tanto, la gran popularidad y el impacto cultural que ha alcanzado Hatsune Miku se debe al hecho de que Hatsune Miku sea “una cantante a quien cualquiera pueda producir la música”, mientras que la tecnología Vocaloid se ha convertido en una fenómeno cultural con el que todos los creadores pueden expresarse libre y artísticamente (Tomonori, 2021).
+Asimismo, la gran popularidad y el impacto cultural que ha alcanzado Hatsune Miku se debe al hecho de que Hatsune Miku sea “una cantante a quien cualquiera pueda producir la música”, mientras que la tecnología Vocaloid se ha convertido en una fenómeno cultural con el que todos los creadores pueden expresarse libre y artísticamente (Tomonori, 2021).
+
+<div class="video-container">
+    <iframe class="video" src="https://www.youtube.com/embed/8kX5_69sO8Q" allowfullscreen></iframe>
+</div>
+<p class="smalltitle">Vídeo 3: M, Mitchie. 2014. <i>Con una mirada inquebrantable - Una canción J-pop de Hatsune Miku</i> [vídeo]. Disponible en: <a href="https://youtu.be/8kX5_69sO8Q" target="_blank">https://youtu.be/8kX5_69sO8Q</a></p>
 
 ## Re-descubriendo la hibridacion: Google Arts & Culture
 
