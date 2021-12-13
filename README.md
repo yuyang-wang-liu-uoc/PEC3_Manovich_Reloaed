@@ -59,9 +59,14 @@ Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Im√
 
 <!-- CSS -->
 <style>
-    p.smalltitle, p.smalltitle.a {
+    p.smalltitle {
       font-size: 1rem; 
       color: #159957;
+    }
+    
+    p.smalltitle.a {
+      color: #159957;
+      text-decoration: underline;
     }
     
     div.video-container {
