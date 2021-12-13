@@ -1,3 +1,16 @@
+---
+title: "Untitled"
+author: "James"
+date: "9/29/2020"
+output: html_document
+---
+
+<style type="text/css">
+  p.imgtitle {
+  font-size: 20px;
+}
+</style>
+
 # PEC3: Visionando el futuro con las gafas de Manovich 
 
 ### Recurso de aprendizaje de Cultura Digital 
@@ -9,7 +22,7 @@ Autor: Yuyang Wang Liu
 Fecha: 11 de diciembre de 2021
 
 ![Vocaloid y Google Arts & Culture](https://raw.githubusercontent.com/yuyang-wang-liu-uoc/PEC3_Manovich_Reloaed/main/multimedia/portada-reto-actividad3-800.png) 
-<p>Ilustración 1: Elaboración propia (2021). *Vocaloid y Google Arts & Culture* [imagen].</p>
+<p class="imgtitle">Ilustración 1: Elaboración propia (2021). *Vocaloid y Google Arts & Culture* [imagen].</p>
 
 
 
