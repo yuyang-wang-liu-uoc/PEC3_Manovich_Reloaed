@@ -160,8 +160,8 @@ Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Im√
 }
     
     img.smallerimg {
-      padding-left: 20%;
-      padding-right: 20%;
+      width: 500px;
+      height: 500px;
 }
 </style>
 
